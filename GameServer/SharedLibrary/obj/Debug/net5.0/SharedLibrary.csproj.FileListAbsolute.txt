@@ -1,0 +1,12 @@
+E:\Game-And-Server\GameServer\SharedLibrary\bin\Debug\net5.0\SharedLibrary.deps.json
+E:\Game-And-Server\GameServer\SharedLibrary\bin\Debug\net5.0\SharedLibrary.dll
+E:\Game-And-Server\GameServer\SharedLibrary\bin\Debug\net5.0\ref\SharedLibrary.dll
+E:\Game-And-Server\GameServer\SharedLibrary\bin\Debug\net5.0\SharedLibrary.pdb
+E:\Game-And-Server\GameServer\SharedLibrary\obj\Debug\net5.0\SharedLibrary.csproj.AssemblyReference.cache
+E:\Game-And-Server\GameServer\SharedLibrary\obj\Debug\net5.0\SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Game-And-Server\GameServer\SharedLibrary\obj\Debug\net5.0\SharedLibrary.AssemblyInfoInputs.cache
+E:\Game-And-Server\GameServer\SharedLibrary\obj\Debug\net5.0\SharedLibrary.AssemblyInfo.cs
+E:\Game-And-Server\GameServer\SharedLibrary\obj\Debug\net5.0\SharedLibrary.csproj.CoreCompileInputs.cache
+E:\Game-And-Server\GameServer\SharedLibrary\obj\Debug\net5.0\SharedLibrary.dll
+E:\Game-And-Server\GameServer\SharedLibrary\obj\Debug\net5.0\ref\SharedLibrary.dll
+E:\Game-And-Server\GameServer\SharedLibrary\obj\Debug\net5.0\SharedLibrary.pdb
