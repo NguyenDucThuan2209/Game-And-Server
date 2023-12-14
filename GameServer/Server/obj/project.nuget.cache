@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hJBmVmgywxDNxUpH//XwOTbk0mPDgzb6r3PJA013YGqvm7kV8ZR3t5pdLrr+7UxbdulS4e3D9ekliprLjTGPeA==",
+  "dgSpecHash": "NdZFgFKJYr2+DdNmqhJPVJ1cCDaCmdTL88NqEmx9zEmY+p1YuI0Vbt0/BfhAA55xQHPrmwCfTHErWtIJy367+A==",
   "success": true,
-  "projectFilePath": "E:\\Game-And-Server\\GameServer\\Server\\Server.csproj",
+  "projectFilePath": "C:\\[Timmy]\\GameAndServer\\GameServer\\Server\\Server.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
