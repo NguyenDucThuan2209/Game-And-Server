@@ -5,11 +5,24 @@ using System.Threading.Tasks;
 
 namespace Server.Services
 {
-    public class PlayerService
+    public interface IPlayerService
+    {
+        void DoSomething();
+    }
+
+    public class PlayerService : IPlayerService
     {
         public void DoSomething()
         {
-            Console.WriteLine("Done something here!");
+            Console.WriteLine("Done something in the PlayerService!");
+        }
+    }
+
+    public class MockPlayerService : IPlayerService
+    {
+        public void DoSomething()
+        {
+            Console.WriteLine("Done something in the MockPlayerService!");
         }
     }
 }
