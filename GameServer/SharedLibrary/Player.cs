@@ -4,8 +4,8 @@ namespace SharedLibrary
 {
     public class Player
     {
-        public int ID { get; set; }
-        public int Level { get; set; }
-        public string Name { get; set; }
+        public int ID;
+        public int Level;
+        public string Name;
     }
 }

@@ -21,3 +21,15 @@ C:\[Timmy]\GameServer\GameServer\SharedLibrary\obj\Debug\net5.0\SharedLibrary.cs
 C:\[Timmy]\GameServer\GameServer\SharedLibrary\obj\Debug\net5.0\SharedLibrary.dll
 C:\[Timmy]\GameServer\GameServer\SharedLibrary\obj\Debug\net5.0\ref\SharedLibrary.dll
 C:\[Timmy]\GameServer\GameServer\SharedLibrary\obj\Debug\net5.0\SharedLibrary.pdb
+C:\[Timmy]\GameAndServer\GameServer\SharedLibrary\bin\Debug\net5.0\SharedLibrary.deps.json
+C:\[Timmy]\GameAndServer\GameServer\SharedLibrary\bin\Debug\net5.0\SharedLibrary.dll
+C:\[Timmy]\GameAndServer\GameServer\SharedLibrary\bin\Debug\net5.0\ref\SharedLibrary.dll
+C:\[Timmy]\GameAndServer\GameServer\SharedLibrary\bin\Debug\net5.0\SharedLibrary.pdb
+C:\[Timmy]\GameAndServer\GameServer\SharedLibrary\obj\Debug\net5.0\SharedLibrary.csproj.AssemblyReference.cache
+C:\[Timmy]\GameAndServer\GameServer\SharedLibrary\obj\Debug\net5.0\SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\[Timmy]\GameAndServer\GameServer\SharedLibrary\obj\Debug\net5.0\SharedLibrary.AssemblyInfoInputs.cache
+C:\[Timmy]\GameAndServer\GameServer\SharedLibrary\obj\Debug\net5.0\SharedLibrary.AssemblyInfo.cs
+C:\[Timmy]\GameAndServer\GameServer\SharedLibrary\obj\Debug\net5.0\SharedLibrary.csproj.CoreCompileInputs.cache
+C:\[Timmy]\GameAndServer\GameServer\SharedLibrary\obj\Debug\net5.0\SharedLibrary.dll
+C:\[Timmy]\GameAndServer\GameServer\SharedLibrary\obj\Debug\net5.0\ref\SharedLibrary.dll
+C:\[Timmy]\GameAndServer\GameServer\SharedLibrary\obj\Debug\net5.0\SharedLibrary.pdb

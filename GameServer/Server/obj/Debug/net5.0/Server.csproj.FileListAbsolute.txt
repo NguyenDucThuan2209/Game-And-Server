@@ -76,3 +76,7 @@ C:\[Timmy]\GameAndServer\GameServer\Server\obj\Debug\net5.0\Server.dll
 C:\[Timmy]\GameAndServer\GameServer\Server\obj\Debug\net5.0\ref\Server.dll
 C:\[Timmy]\GameAndServer\GameServer\Server\obj\Debug\net5.0\Server.pdb
 C:\[Timmy]\GameAndServer\GameServer\Server\obj\Debug\net5.0\Server.genruntimeconfig.cache
+C:\[Timmy]\GameAndServer\GameServer\Server\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\[Timmy]\GameAndServer\GameServer\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\[Timmy]\GameAndServer\GameServer\Server\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\[Timmy]\GameAndServer\GameServer\Server\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll

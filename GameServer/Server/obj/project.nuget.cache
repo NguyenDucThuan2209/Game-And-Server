@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "NdZFgFKJYr2+DdNmqhJPVJ1cCDaCmdTL88NqEmx9zEmY+p1YuI0Vbt0/BfhAA55xQHPrmwCfTHErWtIJy367+A==",
+  "dgSpecHash": "+zfBM3pSgs8Ms9uVn/Ip5McRwNpw3U8ltcuB7Nm7JvX91xw9OPxro2b6vSS9v/Skqzl/TFqfg68GumoBNBzV2w==",
   "success": true,
   "projectFilePath": "C:\\[Timmy]\\GameAndServer\\GameServer\\Server\\Server.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\CHUWI\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.17\\microsoft.aspnetcore.jsonpatch.5.0.17.nupkg.sha512",
+    "C:\\Users\\CHUWI\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\5.0.17\\microsoft.aspnetcore.mvc.newtonsoftjson.5.0.17.nupkg.sha512",
+    "C:\\Users\\CHUWI\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\CHUWI\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\CHUWI\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
