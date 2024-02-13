@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -32,9 +33,11 @@ namespace Server
         {
             services.AddControllers().AddNewtonsoftJson(option =>
             {
-                option.SerializerSettings.ContractResolver = new DefaultContractResolver();
             });
+
             services.AddScoped<IPlayerService, PlayerService>();
+
+            services.AddDbContext<GameDatabaseContext>(o => o.UseSqlServer(Configuration.GetConnectionString("Database")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -1,5 +1,4 @@
-using System.Collections;
-using System.Collections.Generic;
+using Newtonsoft.Json;
 using System.Text;
 using System.Threading.Tasks;
 using UnityEngine;
@@ -17,7 +16,7 @@ public static class Api
             await Task.Delay(10);
         }
 
-        return JsonUtility.FromJson<T>(getRequest.downloadHandler.text);
+        return JsonConvert.DeserializeObject<T>(getRequest.downloadHandler.text);
     }
     public static async Task<T> Post<T>(string url, object data)
     {
@@ -29,7 +28,7 @@ public static class Api
             await Task.Delay(10);
         }
 
-        return JsonUtility.FromJson<T>(postRequest.downloadHandler.text);
+        return JsonConvert.DeserializeObject<T>(postRequest.downloadHandler.text);
     }
 
     private static UnityWebRequest CreateRequest(string url, RequestType type, object data = null)

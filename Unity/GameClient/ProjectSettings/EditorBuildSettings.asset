@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Paroxe/PDFRenderer/Examples/PDFViewer_Asset.unity
+    guid: 4f4a923385356ae42af80130f936f65a
   m_configObjects: {}

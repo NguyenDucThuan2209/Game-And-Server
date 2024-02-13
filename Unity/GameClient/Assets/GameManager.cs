@@ -7,6 +7,7 @@ public class GameManager : MonoBehaviour
     async void Start()
     {
         var player = await Api.Get<Player>("http://localhost:5000/player/22092003");
+        Debug.Log(player.ToString());
     }
 
     // Update is called once per frame
